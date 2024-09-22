@@ -1,4 +1,3 @@
 telethon
 pyyaml
-disnake
-
+discord.py
