@@ -1,4 +1,5 @@
-telethon
-pyyaml
-discord.py
+aiohttp
+asyncio
 disnake
+pyyaml
+telethon
